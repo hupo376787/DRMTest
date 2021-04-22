@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <RemoteDebugMachine>XBOXones</RemoteDebugMachine>
+    <AuthenticationMode>Universal</AuthenticationMode>
+    <RemoteDebugEnabled>false</RemoteDebugEnabled>
+  </PropertyGroup>
+  <PropertyGroup>
+    <UapAppxPackageBuildMode>StoreAndSideload</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x64</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <Source>C:\Users\Vincent\Desktop\1280px-Digital_radio_mondiale-Logo.jpg</Source>
+    <SmallTileSource>C:\Users\Vincent\Desktop\1280px-Digital_radio_mondiale-Logo.jpg</SmallTileSource>
+    <MediumTileSource>C:\Users\Vincent\Desktop\1280px-Digital_radio_mondiale-Logo.jpg</MediumTileSource>
+    <WideTileSource>C:\Users\Vincent\Desktop\1280px-Digital_radio_mondiale-Logo.jpg</WideTileSource>
+    <LargeTileSource>C:\Users\Vincent\Desktop\1280px-Digital_radio_mondiale-Logo.jpg</LargeTileSource>
+    <AppIconSource>C:\Users\Vincent\Desktop\1280px-Digital_radio_mondiale-Logo.jpg</AppIconSource>
+    <SplashScreenSource>C:\Users\Vincent\Desktop\1280px-Digital_radio_mondiale-Logo.jpg</SplashScreenSource>
+    <PackageLogoSource>C:\Users\Vincent\Desktop\1280px-Digital_radio_mondiale-Logo.jpg</PackageLogoSource>
+  </PropertyGroup>
+</Project>
